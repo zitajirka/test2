@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-xxx
-=======
-wwwwwww
->>>>>>> c1a9445f91bf486b7fb5cf47cf3c274a2a65f517
+změna local
